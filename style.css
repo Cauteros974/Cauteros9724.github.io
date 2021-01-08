@@ -1,0 +1,28 @@
+ul{
+    display: inline;
+}
+#reg{
+    width: 100px;
+    height: 20px;
+    background: white;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+  a{
+      margin-left: 15px;
+      text-decoration: none;
+      background: white;
+      color: black;
+  }
+  #blog{
+  width:100px;
+  height:350px;
+  background:rgb(255, 255, 255);
+  width: 100%;
+  padding-left: 40px;
+}
+.hover:hover{
+    background-color: red;
+}
